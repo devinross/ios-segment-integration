@@ -1,7 +1,8 @@
 /* Copyright Urban Airship and Contributors */
 
 #import "SEGUrbanAirshipAutopilot.h"
-#import "AirshipLib.h"
+//#import "AirshipLib.h"
+@import AirshipKit;
 
 
 @implementation SEGUrbanAirshipAutopilot
